@@ -1,0 +1,3 @@
+recipients: ["example@gmail.com" , "example@mail.ru"]
+subject: "subject"
+attachments: ["example.png"]
